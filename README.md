@@ -2,9 +2,9 @@
 <h3 align="center">Agnostic Cloud Architect and Cloud-Native Developper <br> Automation and Golang enthusiast</h3>
 <br>
 
--   🔧 I’m currently working at [Log](https://wearelog.fr/)
+-   🔧 Currently working at [Log](https://wearelog.fr/)
 
--   🌱 I’m currently learning **Kubernetes**
+-   🌱 Learning **Kubernetes**
 
 -   👨‍💻 You can find my vim setup at [Github vmarlier](https://github.com/vmarlier/dotfiles)
 
@@ -14,7 +14,7 @@
 
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
 	<a href="https://github.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
@@ -47,12 +47,14 @@
 
 <br>
 
-<h3 align="center">Certifications:</h3>
+<h3 align="center">Certifications</h3>
 <p align="center">
 	<img src="images/aws-certified-cloud-practitioner(2).png" alt="Cloud Practitioner" width="200" height="200"/>
 	<img src="images/aws-certified-solutions-architect-associate(2).png" alt="gitlab" width="200" height="200"/>
 <br>
+<br>
 
+<h3 align="center">Github Stats</h3>
 
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmarlier&margin-w=5&theme=flat" alt="vmarlier" /></a>
