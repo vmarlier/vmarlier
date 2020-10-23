@@ -1,11 +1,5 @@
-<h1 align="center">Hi There 👋</h1> 
-<h2 align="center">I'm Valentin</h2>
-<h3 align="center">Agnostic Cloud Architect and Cloud-Native Developper</h3>
-<h3 align="center">Automation and Golang enthusiast</h3>
-
-<p align="left">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmarlier&margin-w=5&theme=flat" alt="vmarlier" /></a>
-</p>
+<h1 align="center">Hi There 👋, I'm Valentin</h1> 
+<h3 align="center">Agnostic Cloud Architect and Cloud-Native Developper <br> Automation and Golang enthusiast</h3>
 
 -   🔧 I’m currently working at [Log](https://wearelog.fr/)
 
@@ -17,8 +11,8 @@
 
 -   💬 We can talk about **Cloud Architecting, AWS, CI/CD, DevOps Culture**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
 	<a href="https://github.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
 	</a>
@@ -48,15 +42,12 @@
 	</a>
 </p>
 
-<h3 align="left">Certifications:</h3>
-<p align="left">
-	<a href="https://aws.amazon.com/certification/?nc1=h_ls" target="_blank">
-	    ![AWS Cloud Practitioner](./aws-certified-cloud-practitioner(2).png)
-	</a>
-	<a href="https://aws.amazon.com/certification/?nc1=h_ls" target="_blank">
-	    ![AWS Solution Architect Associate](./aws-certified-solutions-architect-associate(2).png)
-	</a>
-</p>
+<h3 align="center">Certifications:</h3>
+	
+	![AWS Cloud Practitioner](./aws-certified-cloud-practitioner(2).png)
+	![AWS Solution Architect Associate](./aws-certified-solutions-architect-associate(2).png)
+	
+
 
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmarlier&margin-w=5&theme=flat" alt="vmarlier" /></a>
@@ -65,6 +56,6 @@
 <p align="left">
 	<h3 align="left">Connect with me:</h3>
 	<a href="https://linkedin.com/in/vmarlier" target="blank">
-		<img align="center" src="https://www.kingtree.eu/wp-content/uploads/2017/10/Linkedin_circle.svg_.png" alt="linkedin-vmarlier" height="30" width="40" />
+		<img align="center" src="https://www.kingtree.eu/wp-content/uploads/2017/10/Linkedin_circle.svg_.png" alt="linkedin-vmarlier" height="30" width="30" />
 	</a>
 </p>
