@@ -35,7 +35,7 @@
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 	</a>
 	<a href="https://golang.org/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg" alt="golang" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/>
 	</a>
 	<a href="" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -44,8 +44,8 @@
 
 <h3 align="center">Certifications:</h3>
 	
-	![AWS Cloud Practitioner](images/aws-certified-cloud-practitioner(2).png)
-	![AWS Solution Architect Associate](images/aws-certified-solutions-architect-associate(2).png)
+![AWS Cloud Practitioner](images/aws-certified-cloud-practitioner(2).png)
+![AWS Solution Architect Associate](images/aws-certified-solutions-architect-associate(2).png)
 	
 
 
