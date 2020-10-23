@@ -44,8 +44,8 @@
 
 <h3 align="center">Certifications:</h3>
 	
-	![AWS Cloud Practitioner](./aws-certified-cloud-practitioner(2).png)
-	![AWS Solution Architect Associate](./aws-certified-solutions-architect-associate(2).png)
+	![AWS Cloud Practitioner](images/aws-certified-cloud-practitioner(2).png)
+	![AWS Solution Architect Associate](images/aws-certified-solutions-architect-associate(2).png)
 	
 
 
