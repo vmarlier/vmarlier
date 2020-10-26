@@ -70,7 +70,7 @@
 
 <p align="left">
 	<h3 align="left">Connect with me:</h3>
-	<a href="https://linkedin.com/in/vmarlier" target="blank">
+	<a href="https://linkedin.com/in/valentinmarlier" target="blank">
 		<img align="center" src="https://www.kingtree.eu/wp-content/uploads/2017/10/Linkedin_circle.svg_.png" alt="linkedin-vmarlier" height="30" width="30" />
 	</a>
 </p>
