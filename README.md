@@ -25,6 +25,9 @@
 	<a href="https://aws.amazon.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
 	</a>
+	<a href="https://www.scaleway.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/scaleway/scaleway-icon.svg" alt="scaleway" width="40" height="40"/>
+	</a>
 	<a href="https://www.terraform.io" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
 	</a>
