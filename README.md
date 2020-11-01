@@ -59,14 +59,16 @@
 
 <h3 align="center">Github Stats</h3>
 
-<p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmarlier&margin-w=5&theme=flat" alt="vmarlier" /></a>
-</p>
 
 <br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmarlier" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmarlier&layout=compact" style="vertical-align: top;" />
+</p>
+
+<br>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=vmarlier&show_icons=true" alt="vmarlier" />
 </p>
 
 <br>
