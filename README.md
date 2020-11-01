@@ -68,7 +68,7 @@
 
 <br>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vmarlier&show_icons=true" alt="vmarlier" />
+    <img src="https://github-readme-stats.vercel.app/api?username=vmarlier&show_icons=true&hide=prs,contribs" alt="vmarlier" />
 </p>
 
 <br>
