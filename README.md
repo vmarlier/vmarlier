@@ -46,6 +46,9 @@
 	<a href="" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 	</a>
+	<a href="" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="40" height="40"/>
+	</a>
 </p>
 
 <br>
