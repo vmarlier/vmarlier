@@ -4,13 +4,13 @@
 
 -   🔧 Currently working at [Log](https://wearelog.fr/)
 
--   🌱 Learning **Kubernetes**
+-   🌱 Learning **Kubernetes** Administration in order to validate the CKA certification.
 
--   👨‍💻 You can find my vim setup at [Github vmarlier](https://github.com/vmarlier/dotfiles)
+-   👨‍💻 You can find my nvim setup at [Github vmarlier](https://github.com/vmarlier/dotfiles)
 
 -   📚 Some projects are school projects, feel free to check !
 
--   💬 We can talk about **Cloud Architecting, AWS, CI/CD, DevOps Culture**
+-   💬 We can talk about **Cloud Architecting (AWS and recently Scaleway), CI/CD, DevOps Culture, Orchestration..**
 
 <br>
 
@@ -54,6 +54,10 @@
 <p align="center">
 	<img src="images/aws-certified-cloud-practitioner(2).png" alt="Cloud Practitioner" width="200" height="200"/>
 	<img src="images/aws-certified-solutions-architect-associate(2).png" alt="gitlab" width="200" height="200"/>
+</p>
+<p align="center">
+	<img src="images/ckad.png" alt="Certified Kubernetes Application Developper" width="200" height="200"/>
+</p>
 <br>
 <br>
 
