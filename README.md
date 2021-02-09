@@ -37,6 +37,15 @@
 	<a href="https://kubernetes.io" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 	</a>
+	<a href="https://grafana.com" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+	</a>
+	<a href="https://prometheus.io" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+	</a>
+	<a href="https://thanos.io" target="_blank">
+		<img src="https://raw.githubusercontent.com/cncf/artwork/5671fc60ff6cc195e8c8210ad1f193b25c6a6613/projects/thanos/icon/color/thanos-icon-color.svg" alt="thanos" width="40" height="40"/>
+	</a>
 	<a href="https://www.linux.org/" target="_blank">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 	</a>
