@@ -47,7 +47,7 @@
 		<img src="https://raw.githubusercontent.com/cncf/artwork/5671fc60ff6cc195e8c8210ad1f193b25c6a6613/projects/thanos/icon/color/thanos-icon-color.svg" alt="thanos" width="40" height="40"/>
 	</a>
 	<a href="https://www.linux.org/" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
 	</a>
 	<a href="https://golang.org/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/>
