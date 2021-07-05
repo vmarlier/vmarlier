@@ -2,7 +2,7 @@
 <h3 align="center">Agnostic Cloud Architect and Cloud-Native Developper <br> Automation and Golang enthusiast</h3>
 <br>
 
--   🔧 Currently working at [Log](https://wearelog.fr/)
+-   🔧 Currently working at [Talend](https://talend.com/) as SRE
 
 -   🌱 Learning **Kubernetes** Administration in order to validate the CKA certification.
 
