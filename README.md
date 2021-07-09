@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Valentin</h1> 
-<h3 align="center">Agnostic Cloud Architect and Cloud-Native Developper <br> Automation and Golang enthusiast</h3>
+<h3 align="center">SRE, Cloud Architect and Cloud-Native Developper <br> Automation and Golang enthusiast</h3>
 <br>
 
 -   🔧 Currently working at [Talend](https://talend.com/) as SRE
@@ -10,7 +10,7 @@
 
 -   📚 Some projects are school projects, feel free to check !
 
--   💬 We can talk about **Cloud Architecting (AWS and recently Scaleway), CI/CD, DevOps Culture, Orchestration..**
+-   💬 We can talk about **Cloud Architecting (AWS and recently Scaleway), CI/CD, DevOps Culture, Orchestration, VIM !**
 
 <br>
 
