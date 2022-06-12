@@ -2,15 +2,15 @@
 <h3 align="center">SRE, Cloud Architect and Cloud-Native Developper <br> Automation and Golang enthusiast</h3>
 <br>
 
--   🔧 Currently working at [Talend](https://talend.com/) as SRE
+-   🔧 Currently working at [Talend](https://talend.com/) as SRE.
 
--   🌱 Learning **Kubernetes** Administration in order to validate the CKA certification.
+-   🌱 Still learning **Kubernetes** related technologies and Cloud stuff in order to do my job the best way.
 
--   👨‍💻 You can find my nvim setup at [Github vmarlier](https://github.com/vmarlier/dotfiles)
+-   👨‍💻 I'm a Vim nerd, here is my [configuration](https://github.com/vmarlier/dotfiles/tree/master/nvim).
 
--   📚 Some projects are school projects, feel free to check !
+-   💬 We can talk about **Kubernetes stuffs, Cloud Architecture, CI/CD, DevOps Culture and of course VIM !**
 
--   💬 We can talk about **Cloud Architecting (AWS and recently Scaleway), CI/CD, DevOps Culture, Orchestration, VIM !**
+-   📚 Free time = Books (Dostoievski), Tech projects (unfinished of course), Apex Legends and Sports.
 
 <br>
 
