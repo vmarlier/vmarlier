@@ -61,28 +61,11 @@
 
 <h3 align="center">Certifications</h3>
 <p align="center">
-	<img src="images/aws-certified-cloud-practitioner(2).png" alt="Cloud Practitioner" width="200" height="200"/>
-	<img src="images/aws-certified-solutions-architect-associate(2).png" alt="gitlab" width="200" height="200"/>
-</p>
-<p align="center">
-	<img src="images/ckad.png" alt="Certified Kubernetes Application Developper" width="200" height="200"/>
+	<img src="images/aws-certified-cloud-practitioner(2).png" alt="Cloud Practitioner" width="60" height="60"/>
+	<img src="images/aws-certified-solutions-architect-associate(2).png" alt="gitlab" width="60" height="60"/>
+	<img src="images/ckad.png" alt="Certified Kubernetes Application Developper" width="60" height="60"/>
 </p>
 <br>
-<br>
-
-<h3 align="center">Github Stats</h3>
-
-<br>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmarlier&layout=compact" style="vertical-align: top;" />
-</p>
-
-<br>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vmarlier" alt="vmarlier" />
-</p>
-
 <br>
 
 <p align="left">
