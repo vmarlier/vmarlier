@@ -10,7 +10,7 @@
 
 -   💬 We can talk about **Kubernetes stuffs, Cloud Architecture, CI/CD, DevOps Culture and of course VIM !**
 
--   📚 Free time = Books, Tech projects (unfinished of course), Video Games, Sports and recently writing [tech articles](https://www.linkedin.com/pulse/how-setup-managed-kubernetes-cluster-good-way-valentin-marlier/).
+-   📚 Free time = Books, Tech projects (unfinished of course), Video Games, Sports and recently writing [tech articles](https://medium.com/@valentin.marlier).
 
 <br>
 
