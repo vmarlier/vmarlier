@@ -1,16 +1,12 @@
 <h1 align="center">Hi There 👋, I'm Valentin</h1> 
-<h3 align="center">SRE, Cloud Architect and Cloud-Native Developper <br> Automation and Golang enthusiast</h3>
+<h3 align="center">Platform Engineer and SRE <br> Automation and Golang enthusiast</h3>
 <br>
 
--   🔧 Currently working at [Talend](https://talend.com/) as SRE.
+-   🔧 Currently working at [Pleo](https://pleo.io/) as SRE.
 
 -   🌱 Still learning **Kubernetes** related technologies and Cloud stuff in order to do my job the best way.
 
--   👨‍💻 I'm a Vim nerd, here is my [configuration](https://github.com/vmarlier/dotfiles/tree/master/nvim).
-
--   💬 We can talk about **Kubernetes stuffs, Cloud Architecture, CI/CD, DevOps Culture and of course VIM !**
-
--   📚 Free time = Books, Tech projects (unfinished of course), Video Games, Sports and recently writing [tech articles](https://medium.com/@valentin.marlier).
+-   👨‍💻 I'm a Vim nerd, here is my [configuration](https://github.com/vmarlier/nvim).
 
 <br>
 
@@ -72,5 +68,8 @@
 	<h3 align="left">Connect with me:</h3>
 	<a href="https://linkedin.com/in/valentinmarlier" target="blank">
 		<img align="center" src="https://www.kingtree.eu/wp-content/uploads/2017/10/Linkedin_circle.svg_.png" alt="linkedin-vmarlier" height="30" width="30" />
+	</a>
+	<a href="https://medium.com/@valentin.marlier" target="blank">
+		<img align="center" src="https://cdn-icons-png.flaticon.com/128/4401/4401405.png" alt="medium-vmarlier" height="30" width="30" />
 	</a>
 </p>
