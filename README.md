@@ -1,12 +1,12 @@
 <h1 align="center">Hi There 👋, I'm Valentin</h1> 
-<h3 align="center">Platform Engineer and SRE <br> Automation and Golang enthusiast</h3>
+<h3 align="center">Platform Engineer and SRE </h3>
 <br>
 
 -   🔧 Currently working at [Pleo](https://pleo.io/) as SRE.
 
 -   🌱 Still learning **Kubernetes** related technologies and Cloud stuff in order to do my job the best way.
 
--   👨‍💻 I'm a Vim nerd, here is my [configuration](https://github.com/vmarlier/nvim).
+-   👨‍💻 I'm a Vim nerd, here is my [configuration](https://github.com/vmarlier/dotfiles).
 
 <br>
 
